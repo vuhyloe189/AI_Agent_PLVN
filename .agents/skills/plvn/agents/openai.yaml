@@ -1,0 +1,7 @@
+interface:
+  display_name: "Pháp luật Việt Nam"
+  short_description: "Tra cứu và phân tích pháp luật Việt Nam"
+  default_prompt: "Sử dụng $plvn để tra cứu hoặc phân tích câu hỏi pháp luật Việt Nam sau, luôn kiểm tra hiệu lực và dẫn nguồn trực tiếp:"
+
+policy:
+  allow_implicit_invocation: true
